@@ -1,0 +1,26 @@
+{
+  "name": "express-html",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.11.0",
+    "jquery": "^3.3.1",
+    "mssql": "^4.1.0",
+    "require": "^2.4.20"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Internship Project",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://gtihub.com/akhilsingla97/Internship-Project.git"
+  },
+  "keywords": [
+    "graph"
+  ],
+  "author": "Akhil Singla",
+  "license": "ISC"
+}
